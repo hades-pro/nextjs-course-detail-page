@@ -213,7 +213,3 @@ MIT License - feel free to use this project as a reference or starting point.
 ## Author
 
 Built as a technical assessment demonstrating Next.js SSR, SEO optimization, and structured data implementation.
-
----
-
-**Contact:** For questions about this implementation, reach out to mikhail@starthub.academy
